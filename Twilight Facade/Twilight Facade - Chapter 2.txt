@@ -25,8 +25,8 @@ Spark started to respond, but was interrupted by Applejack, who had just entered
 
 //I opened my mouth to respond, but I was interrupted by Applejack, who was entering the room with the others. "Settle down there, Rainbow. Nopony's blamin' her for runnin' off." She turned to me with a frown that demanded answers. "But you know something we don't, don't ya Twilight?"
 
-Spark nodded, responding "Right. Nightmare Moon is an angry goddess who was imprisoned on the moon for a thousand years. Now that she's free, she will bring eternal night, which will inevitably kill all life on the planet." <What is a goddess, and what? Eternal night wouldn't kill all life on the planet. Where did she even get that idea from?>  "-The Elements of Harmony" <And I should have been paying attention.>
-// What is a goddess, do research if that even shows up. Even discord is only a "Spirit", not a god, at least canonically. 
+Spark nodded, responding "Right. Nightmare Moon is an angry goddess who was imprisoned on the moon for a thousand years. Now that she's free, she will bring eternal night, which will inevitably kill all life on the planet." <What? Eternal night wouldn't kill all life on the planet. Where did she even get that idea from?>  "-The Elements of Harmony" <And I should have been paying attention.>
+// Given God is used later in the story, and nopony reactions, I am not going to have Twilight confused about the term Goddess.
 
 Spark elucidated on the research she had done. The Elements of Harmony, Five virtues known, but six elements. The Castle of the Royal Pony Sisters, which sounded like the kind of places I should have heard more about.
 
@@ -274,21 +274,34 @@ She rolled my eyes. "Okay, fine. If it really upsets you, then no more low-blows
 /* Twilight wonders what Spark is smirking about here?
 I might have believed her if not for the wicked smirk my face twisted into the moment I turned away. Maybe she wouldn't deal any more "low-blows", but that doubtless left many options that Applejack wouldn't appreciate either.
 
-As if to test me on that conviction, the area went completely dark. I lowered my stance, shooting my eyes in every direction to see some kind of monster. It had to be a monster, right? I wasn't expecting the manticore, but I'm ready this time!
+The canopy ahead was dense enough to render the area completely dark. Spark was clearly expecting an ambush, given how my eyes went in all directions.
+
+
+/*As if to test me on that conviction, the area went completely dark. I lowered my stance, shooting my eyes in every direction to see some kind of monster. It had to be a monster, right? I wasn't expecting the manticore, but I'm ready this time!
 
 "I know the Everfree Forest isn't much to look at, but I at least want to see something" I heard Rarity complain.
 
 A soft splat sounded by Applejack. "I think I stepped in somethin'."
 
-Fluttershy seemingly shrieked in response. "It's just mud." Was Applejack's deadpan comeback.
+Fluttershy shrieked in response. "It's just mud." Was Applejack's deadpan response.
 
-Light returned to the glade, but what I saw sent shivers down my spine and scared the others into screams. Horrid, red trees with monstrous teeth in unnatural maws wailed at us with terrifying expressions of savage intent. I backed away from them, bunching up with the rest of the party in the center of glade, fearfully observing the abominations.
+Light returned to the glade, but what I saw sent shivers down my spine and caused everypony else to let out screams. Horrific, twisted red trees, with gaping maws filled with sharp teeth greeted us. Everypony bunched up, my gaze snapping between the abominations. I, obviously, didn't scream, not even internally. Really!
+
+/*Light returned to the glade, but what I saw sent shivers down my spine and scared the others into screams. Horrid, red trees with monstrous teeth in unnatural maws wailed at us with terrifying expressions of savage intent. I backed away from them, bunching up with the rest of the party in the center of glade, fearfully observing the abominations.
 
 All of us were quivering in fear, except Pinkie Pie. She was standing up to one of the trees, making silly and demeaning faces at one of them, giggling like a maniac the whole time.
-/* Does the fear aura effeect Twilight, does she think Tree Demons is an actual thing?
-"Pinkie, why are you taunting the tree demons?" I asked, half because I was scared for her life. The other half of me was curious as to why Pinkie was unafraid of potential danger.
+/* Does the fear aura effect Twilight, does she think Tree Demons is an actual thing?
+/* I think yes is the right answer.
 
-Pinkie giggled, and looked at our questioning looks with a smile. "Oh, girls, don't you see?" Pinkie started shuffling her hooves, as if she was dancing. A phantom tune started playing, which confused me more than Pinkie being excitable. I looked around for some kind of instrument playing, but we were alone with all of these trees glaring at us. Now I was really confused.
+"Pinkie, why are you taunting the tree demons?" Spark asked. // That is not the question I would have asked. Or no comment? Not sure
+
+/*"Pinkie, why are you taunting the tree demons?" I asked, half because I was scared for her life. The other half of me was curious as to why Pinkie was unafraid of potential danger.
+
+/*Pinkie giggled, and looked at our questioning looks with a smile. "Oh, girls, don't you see?" Pinkie started shuffling her hooves, as if she was dancing. A phantom tune started playing, which confused me more than Pinkie being excitable. I looked around for some kind of instrument playing, but we were alone with all of these trees glaring at us. Now I was really confused.
+
+// Does Twilight recognize Heartsongs?
+// Doesn't show up in the fanfic, so maybe?
+// Twilight could be confused as to why she was setting off a heartsong, as she has never heard of one being used in combat, or similar.
 
 Pinkie wasn't paying my confusion any mind, and she began singing.
 
