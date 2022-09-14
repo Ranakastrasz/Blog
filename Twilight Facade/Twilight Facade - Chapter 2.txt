@@ -1,7 +1,7 @@
 // Everything "Spark" does should be "I did, in chapter 3. 
+// I still don't like using spark, and will probably ask for feedback.
 
-
-<Okay, Seriously, What the buck is going on here? I am not being controlled by Nightmare Moon. I am not being controlled by an ally of Nightmare Moon. So I am back to square one, and I really wish I could take notes to organize my thoughts here. For the sake of being able to mentally refer to my controller, I will refer to them as "Spark". By Celestia I wish I could take notes...>
+<Okay, Seriously, What the buck is going on here? I am not being controlled by Nightmare Moon. I am not being controlled by an <i>ally<i> of Nightmare Moon. So I am back to square one, and I really wish I could take notes to organize my thoughts here. For the sake of being able to mentally refer to my controller, I will refer to them as "Spark". By Celestia I wish I could take notes...>
 
 Spark ran, with Spike, all the way back to the library, dropping him off on the bed. I honestly couldn't blame her, given that he was delirious.
 
@@ -17,11 +17,11 @@ Then the door slammed open, with a rainbow blur speeding up to me. Rainbow Dash 
 
 //I would have liked reading to completion, but the door slammed open with a rainbow blur speeding up to me. Rainbow Dash stopped just short of my face, glaring at me. "What's your deal?" She demanded. "First you're being all brave, then you just run off like a coward!"
 
-"In case you didn't notice, Rainbow, Nightmare Moon is far too strong for anyone to handle alone. This was a tactical withdrawal." <Not quite how I would have done it, but yes> // Maybe remove this 
+"In case you didn't notice, Rainbow, Nightmare Moon is far too strong for anyone to handle alone. This was a tactical withdrawal."
 
 "Tactical, my flank!" Rainbow accused, waving her hoof around.
 
-Spark started to respond, but was interrupted by Applejack, who had just entered the room along with the other ponies Spark had interacted with. "Settle down there, Rainbow. Nopony's blamin' her for runnin' off." She turned to me with a frown that demanded answers. "But you know something we don't, don't ya Twilight?" <Well Duh.>
+Spark started to respond, but was interrupted by Applejack, who had just entered the room along with the other ponies Spark had interacted with. "Settle down there, Rainbow. Nopony's blamin' her for runnin' off." She turned to me with a frown that demanded answers. "But you know something we don't, don't ya Twilight?" <Obviously>
 
 //I opened my mouth to respond, but I was interrupted by Applejack, who was entering the room with the others. "Settle down there, Rainbow. Nopony's blamin' her for runnin' off." She turned to me with a frown that demanded answers. "But you know something we don't, don't ya Twilight?"
 
@@ -36,7 +36,7 @@ Spark elucidated on the research she had done. The Elements of Harmony, Five vir
 
 //"So you know where they are?" Asked Rarity.
 
-/* Has twilight heard of it before? I doubt it.
+/* Has twilight heard of it before? I doubt it. She was unfamilier even with rumors of it.
 //I shook my head. "Not really. The last known location of the Elements was the Castle of the Royal Pony Sisters." I read a little bit more, noting that the Elements were based on a few core values. Kindness, Laughter, Honesty, Generosity, and Loyalty. There were six, but only five were known.
 
 
@@ -53,12 +53,12 @@ The resulting headshake was, again, unpleasant, but I was getting used to it. "Y
 //I realized that I was staring at everyone in contemplation. I lightly shook my head. "Yeah, I'm fine. Anyway, the castle is in the middle of the Everfree Forest. I'm sure we can get in there and get out before Nightmare figures us out, no problem."
 /* Twilight doesn't know about the Everfree at this point, Not sure how she would react here.
 Fluttershy, similar to everyone else, started shaking. "D-did you say the Everfree F-forest?"
-
-Everypony else looked nervous, except Fluttershy, who started shaking. "D-did you say the Everfree F-forest?" 
+/* Annoyingly, this is where Fluttershy's name is first used, instead of her introducing herself to spike. But I think I will just ignore this entirely.
+Everypony else looked nervous, except Flutter, who started shaking. "D-did you say the Everfree F-forest?" 
 
 "Yeah. Is that bad?"
 
-"Bad?" Scoffed Rarity. "It's terrible! The Everfree Forest is the most dangerous place in Equestria!" <It is? Why hadn't I seen a book about it before then?>
+"Bad?" Scoffed Rarity. "It's terrible! The Everfree Forest is the most dangerous place in Equestria!" <It is? Why haven't I seen a book about it before then?>
 
 /* Comment on unconvincingness? 
 "Pfft! I'm not scared!" Rainbow boasted. She shifted uneasily in place. <Very convincing>
@@ -77,7 +77,7 @@ Everypony else looked nervous, except Fluttershy, who started shaking. "D-did yo
 
 Pinkie was jumping around with excitement. "Woohoo! We're an adventuring party!" She stopped in place. "Whoa. I could throw an Adventure Party!" <Ha. She must play Ogres and Oubliettes. Or at least have read the rulebooks, like me...>
 
-I smiled confidently. "Then I'm glad to have you all along. With all six of us, I'm sure we'll succeed." <Seven of us, arguably.>
+I smiled confidently. "Then I'm glad to have you all along. With all six of us, I'm sure we'll succeed." <Technically that should be seven.>
 -------------------------------------------------------------------------------
 
 
@@ -113,19 +113,19 @@ Rarity winced at me. "Is there a need for such language?" <Ugh. I know, right?>
 
 Spark sighed. "Sorry, I'm just surprised none of you have ever been here before. I lived near a cave back home, and kids would always wander off in there. They had to block it off, after a while." <That seems rather reckless>
 
-Applejack raised an eyebrow at me. "You had caves in Fillydelphia?" <An excellent question. Fillydelphia is a rather dense city, and while I suppose there are likely caves outside the city however.> // There isn't a lot of data on the wiki for Fillydelpha, but the maps makes it look like a rather dense city (for MLP anyway)
+Applejack raised an eyebrow at me. "You had caves in Fillydelphia?" <An excellent question. Fillydelphia is a rather dense city. I suppose there are likely caves outside the city, but I am still sceptical.> // There isn't a lot of data on the wiki for Fillydelpha, but the maps makes it look like a rather dense city (for MLP anyway)
 /* Infodump on Fillydelpha?
 /* Very unconvincing
 Spark stared at Applejack for a moment "If you know where to look." She replied cryptically, and unhelpfully.
 /* HA! Gotta keep your story straight.
 Rarity looked at me, confused. "Hold on a moment, I thought you were from Canterlot?" <HA! You already messed up. Spike probably told her while I was upstairs.>
 
-We stopped near a cliff, none of us paying it much mind. That was because the others were all looking at me, expecting me to address the inconsistency. <Thank you Spike. Good work, even if it was technically an accident>
+We stopped near a cliff, none of us paying it much mind. That was because the others were all looking at me, expecting me to address the inconsistency. <Thank you Spike. Good work, even if it was unknowingly.>
 
 /* This will NOT hold up to scrutinty. It will all unravel, assuming of course, Twilight returns to canterlot.
-"Well, I was born in Fillydelphia, but then we moved." She smiled, trying to deflect suspicion. <That will fall apart if Spike hears about it.>
+"Well, I was born in Fillydelphia, but then we moved." She smiled, trying to deflect suspicion. <That will fall apart as soon as Spike hears about it.>
 
-Applejack wasn't deterred. "Y'sure? 'Cause ya don't seem like yer too sure about yer answer." <Is this where it all falls apart? I mean, Rarity and Fluttershy probably know enough details from Spike to- GAH!>
+Applejack wasn't deterred. "Y'sure? 'Cause ya don't seem like yer too sure about yer answer." <Is this where it all falls apart? I mean, Rarity and flutter probably know enough details from Spike to- GAH!>
 
 And then the cliff collapsed, with us standing on it. My stomach jumped into my throat, I tried to flail in panic, but that obviously had no effect. This was how I was going to die, wasn't it. Even If I had control, or magic, I don't think there would be anything I could do. Well, the pegasi completely failed to fall, and sped into action rescuing Rarity and Pinkie, but Applejack and I slid towards the cliff. Applejack managed to grab a conveniently placed root, but my body was just scrambling at the slope, without any luck.
 
@@ -135,7 +135,7 @@ And then the cliff collapsed, with us standing on it. My stomach jumped into my 
 
 The edge was coming way too close, and Spark turned around, Having only a vague idea of how many seconds until I fell off of the edge to my death was not helping. Still, Applejack did a controlled slide, and managed to grab me just as I went over the edge. My head panned wildly, and I noticed a few outcropping that I could have landed on, had I been a few meters in either direction. I could feel my grip failing, and Applejack was having trouble not sliding further.
 
-She looked at me with determination "Let go." <I suppose it would be better for only me to die. Well, me and Spark, presumably.>
+She looked at me with determination "Let go." <WHAT? That is a terrible idea. I don't want to die!>
 
 //The edge was coming way too close, so I turned and tried scrambling away in futility. Applejack noticed my predicament, and slid down to help me with surprising control. Just before I fell to my death, Applejack came close enough to me that I caught her hooves. We both stopped, with only myself in any danger now. We both strained to keep our holds, and I looked around for some way to descend safely. I noticed that a few outcroppings on the cliff one could land on, but I was unable to reach them from where I was. I was losing my grip on Applejack, and even she was having trouble keeping herself where she was. She peeked at something behind me, and looked at me with determination.
 
@@ -143,21 +143,21 @@ She looked at me with determination "Let go." <I suppose it would be better for 
 /* Language?
 //"The fuck I will! That fall will kill me!" I protested.
 
-"The fuck I will. That fall will kill me!" Spark protested. <Language! Also, duh.>
+"The fuck I will. That fall will kill me!" Spark protested. <Language! But Agreed!>
 
 "No it won't." She countered. She looked me dead in the eyes with a sincerity that I could feel. "Ah promise that if you let go, you'll be safe."
 
 Then Spark let go, and we fell to our death. I couldn't scream externally, but Spark wasn't so incapable.. "OH SHIIIIIIIIIT!" <AHHHHHHHHHHHHH!>
 
-As I fell to my death, I made sure to keep myself as dignified as possible. My friends would remember me as the one who fell to her death with the strength of character to take it in stride.
+//As I fell to my death, I made sure to keep myself as dignified as possible. My friends would remember me as the one who fell to her death with the strength of character to take it in stride.
 /* First Swear words!. Well.
-I most certainly did not scream "OH SHIIIIIIIIIT!" as I fell. No sir.
+//I most certainly did not scream "OH SHIIIIIIIIIT!" as I fell. No sir.
 
-Somehow, in all of that, I completely forgot that we had two Pegasi with us, and we had delayed long enough for them to land the others. So rather than hitting the ground, Rainbow and Fluttershy caught me, and brought me down at a far less terrifying speed. Spark grabbed both of them in a hug. "Thanks, it means a lot to me what you did there."
+Somehow, in all of that, I completely forgot that we had two Pegasi with us, and we had delayed long enough for them to land the others. So rather than hitting the ground, Rainbow and Flutter caught me, and brought me down at a significantly less terrifying speed. Spark grabbed both of them in a hug. "Thanks, it means a lot to me what you did there." <Oh Celestia. That was terrifying!>
 
 //While I was expecting to splat against the ground, I failed to notice Rainbow and Fluttershy flying nearby, ready to catch me at a moment's notice. They caught me pretty quickly, and brought me down to the ground at a comforting (and most importantly, safe) speed. When they let go, I grabbed them both in a grateful hug. "Thanks, it means a lot to me what you did there." I said.
 
-Both made their excuses for breaking the hug, though rescuing Applejack would have been reason enough. However, she clearly had absolutely no trouble, given she leapt down several outcroppings before reaching the bottom. As she walked by and gave me a reassuring pat on the shoulder /*wither?*/, I considered how she valued truth. // Sounds wrong, but I felt the same way about the pilot episode, so w.e. Seriously, just say that the pegasi would catch her.
+Both made their excuses for breaking the hug, though rescuing Applejack would have been reason enough. However, she clearly had absolutely no trouble, given she leapt down several outcroppings before reaching the bottom. As she walked by and gave me a reassuring pat on the withers, I considered how she valued truth. // Sounds wrong, but I felt the same way about the pilot episode, so w.e. Seriously, just say that the pegasi would catch her.
 
 //Both made their excuses for breaking the hug, one out of pride and the other because she's Fluttershy, and we watched Applejack show surprising agility in descending down on the outcroppings of the cliff. As Applejack walked by and gave me a reassuring pat on the shoulder, I contemplated her. Here was a mare that valued truth.
 
@@ -166,7 +166,7 @@ Both made their excuses for breaking the hug, though rescuing Applejack would ha
 
 It took only a short time to find the path again, and we continued forward. Unfortunately, Rainbow was doing her best to remind me of how close I came to death.
 
-"...and once Pinkie and Rarity were saved, whoosh!... Me and Fluttershy loop-de-loop around and WHAM! Caught you right in the nick of time." She smiled, basking in her own glory while the others were completely straight-faced.
+"...and once Pinkie and Rarity were saved, whoosh!... Me and Fluttershy loop-de-loop around and WHAM! Caught you right in the nick of time." She smiled, basking in her own glory while the others were completely straight-faced. <Wait, her name is Fluttershy? I actually forgot that I never clearly heard her introduction.>
 
 "Nice story. I was there, so I might be a bit biased, but I'm sure it would be a nice story to tell your kids someday."  Spark said, and changed the subject. "So, Rainbow. I take it you know a lot about those "Wonderbolts", huh?" <Oh thank Celestia. Now she will focus on something else>
 
@@ -180,7 +180,7 @@ It took only a short time to find the path again, and we continued forward. Unfo
 
 Rarity and Applejack groaned behind me, while Pinkie bounced in place saying "Oh boy, story time!"
 
-Rainbow hovered next to me, looking like she was ready to go on some tirade, but a loud growling froze us in our tracks. My head swung around, but there was too much foliage in the way. We stared ahead for a long while, but we heard nothing else. // Usage of we twice, or even once, feels wrong here.
+Rainbow hovered next to me, looking like she was ready to go on some tirade, but a loud growling froze us in our tracks. My head swung around, but there was too much foliage in the way. Everypony stared ahead for a long while, but heard nothing else.
 
 "I guess it's gone now." Spark commented.
 
@@ -202,7 +202,7 @@ Spark was frozen at the sight of the "Mythological" creature, but the others pre
 
 The manticore glared at Rarity and roared right in her face. The force of its call pushed back her hair. The sight of her hair ruined was more than she could take, and she ran behind me to fix it. // Again, Lame, and I don't know how to refer to this normal-ishly
 
-//Seriously, Rarity? That was just lame. I turned back in time to see Applejack trying to wrangle the beast into submission. But she was quickly thrown off with barely a struggle. Rainbow flew in to do her thing, while Applejack landed right next to me.
+//Seriously, Rarity? That was just lame. I turned back in time to see Applejack trying to wrangle the beast into submission. But she was quickly thrown off with barely a struggle. Rainbow flew in to do her thing, while Applejack landed right next to me. <Oh crap, Do something Spark! Don't just stand there!>
 
 Applejack tried to wrangle the manticore, but was quickly tossed across the clearing. Rainbow Dash sped into action as Applejack landed next to me.
 
@@ -210,7 +210,7 @@ She looked up at me with slight annoyance. "Is there a reason yer just standin' 
 /* Another Hint. Also rather confusing. 
 "What can I do? I'm just a sales clerk!" <WHAT?>
 
-"That ain't no excuse! Rarity's a fashion designer, and she just clobbered the critter!" <No, seriously, A Sales Clerk? What?>
+"That ain't no excuse! Rarity's a fashion designer, and she just clobbered the critter!" <No, seriously, a <i>Sales Clerk? WHAT?>
 
 I looked back at the manticore, who just slapped Rainbow away. Rainbow looked dazed, but otherwise fine. That was clearly enough for Spark, who charged at it. 
 
@@ -225,13 +225,13 @@ I looked back at the manticore, who just slapped Rainbow away. Rainbow looked da
 
 Right in the private parts. <What the BUCK is wrong with you?>
 
-The manticore screeched, and fell on its side, using a single paw to grasp its pained loins. I saw various reactions from my companions, from Rarity's look of disgust, Applejack's look of disappointment, Pinkie visibly wincing, Rainbow rolling on the ground with laughter, and Fluttershy staring in sheer horror. <Well, it was effective, at least.>
+The manticore screeched, and fell on its side, using a single paw to grasp its pained loins. I saw various reactions from my companions, from Rarity's look of disgust, Applejack's look of disappointment, Pinkie visibly wincing, Rainbow rolling on the ground with laughter, and Fluttershy staring in sheer horror. <Well, it was effective, at the very least, but what the actual Hay?>
 
 "Quick, get him while he's down!" Spark shouted.
 //"Quick, get him while he's down!" I kept my mind focused on beating this sucker down. Get in our way, will you? We'll show you what's what!
 
 //Before I could pounce on it and pommel it with my hooves, Fluttershy jumped in the way frantically waving her hooves. "Stop! Stop!"
-Before she could pounce on it, Fluttershy jumped in the way frantically waving her hooves. "Stop! Stop!"
+Before she could pounce on it, Fluttershy jumped in the way frantically waving her hooves. "Stop! Stop!" <What are you doing!?>
 
 Spark stopped, clearly confused as to why fluttershy stopped her. Fluttershy ignored her, and went to nuzzle the manticore and offer him soothing words. <What?>
 //Indeed, I stopped, bewildered at the suddenly concerned pegasus. I had him on the ropes, so why stop me when I had the advantage? More puzzling to me was why Fluttershy started to nuzzle the manticore and offer him soothing words. Come on, why are you being so friendly to the enemy? Hit him!
@@ -264,7 +264,7 @@ Applejack gave her a reserved glare. "And ahm sayin' it was dirty!" She looked a
 She was referring to Spark's... approach... to fighting. Rainbow was laughing about it the whole way, which eventually led to them arguing about it.
 /* O&O reference? Even if she never played, I can't see her NOT reading the entire manual at one point. I know I did.
 // Reconsider how you do the comment.
-"I'm the rogue. I always fight dirty." Spark flatly replied. <Dishonest and Unprincipled? Is that an Ogres and Oubliettes Reference? Or the original meaning, of a 
+"I'm the rogue. I always fight dirty." Spark flatly replied. <Dishonest and Unprincipled? Savage or Destructive? Is that an Ogres and Oubliettes Reference?>
 
 That didn't impress Applejack "Why'd you have to do that? That's no honest way to win!"
 
@@ -293,7 +293,7 @@ All of us were quivering in fear, except Pinkie Pie. She was standing up to one 
 /* Does the fear aura effect Twilight, does she think Tree Demons is an actual thing?
 /* I think yes is the right answer.
 
-"Pinkie, why are you taunting the tree demons?" Spark asked. // That is not the question I would have asked. Or no comment? Not sure
+"Pinkie, why are you taunting the tree demons?" Spark asked. <Tree Demons? Why did nopony tell me Tree Demons existed?>
 
 /*"Pinkie, why are you taunting the tree demons?" I asked, half because I was scared for her life. The other half of me was curious as to why Pinkie was unafraid of potential danger.
 
@@ -309,7 +309,7 @@ When I was a little filly and the sun was going doooowwn...
 /* Spark's Reaction is about the same as Twilights here, oddly enough. 
 My confusion was compounding further. "Don't tell me she's going to sing?"
 
-Pinkie, somehow, appeared above us and continued her song, making gravity her bitch.
+Pinkie, somehow, appeared above us and continued her song.
 
 The darkness and the shadows, they would always make me froooowwn...
 
@@ -323,7 +323,7 @@ But Granny Pie said that wasn't the way
 
 To deal with fears at all
 
-"You've gotta be kidding me." I groaned. I looked at the trees, expecting to see them doing something. Strange, they were standing completely still. Why were they doing nothing?
+"You've gotta be kidding me." Spark groaned. I looked at the trees, expecting to see them doing something. Strange, they were standing completely still. Why were they doing nothing?
 
 She said, "Pinkie, you gotta stand up tall
 
@@ -333,7 +333,7 @@ You'll see that they can't hurt you
 
 Just laugh to make them disappear."
 
-Pinkie brazenly laughed at one of the trees, and it poofed into an ordinary not-evil tree. The others gasped, but I stood bewildered. "You've gotta be kidding me." I repeated in shock.
+Pinkie brazenly laughed at one of the trees, and it poofed into an ordinary not-evil tree. The others gasped, but I stood bewildered. "You've gotta be kidding me." Spark repeated in shock.
 
 So, giggle at the ghostly
 
@@ -347,7 +347,7 @@ Chortle at the kooky
 
 Snortle at the spooky
 
-The others joined in on the singing and the laughing, each laugh transforming the trees. I just stood there watching with amazement. Pinkie halted the song entirely to stand right in my face, slightly glaring as if I was doing something wrong.
+The others joined in on the singing and the laughing, each laugh transforming the trees. I just stood there watching with amazement. Pinkie halted the song entirely to stand right in my face, slightly glaring as if I was doing something wrong. <Heh. Hahahhaaha!>
 
 And tell that big dumb scary face to take a hike and leave you alone and if he thinks he can scare you then he's got another thing coming and the very idea of such a thing just makes you wanna...
 
@@ -357,36 +357,34 @@ Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaauuuugh!
 
 The music cut out, and everyone fell to the ground with laughter. Not me though, I was still staring at one last tree that hadn't been fixed yet. I was studying it.
 
-"Hey, Twilight, why aren't you laughing?" Pinkie asked.
+"Hey, Twilight, why aren't you laughing?" Pinkie asked. <I, Ha, am... Oh right>
 
-I finished glaring academically at the tree and turned to the others. "Couldn't we have just walked past them?"
+Spark stopped studying the remaining tree and turned to the others. "Couldn't we have just walked past them?"
 
-This gave their laughter pause. They looked at each other questioningly, then looked at me. They burst out with renewed laughter, once more falling to the ground in their mirth.
+This gave their laughter pause. They looked at each other questioningly, then looked at me. Everypony burst out with renewed laughter, once more falling to the ground in their mirth. I would have gladly joined them.
 
-I wilted with embarrassment. "That was a legitimate question, guys." I whispered defensively.
+Spark wilted with obvious embarrassment. "That was a legitimate question, guys." She whispered defensively.
 
-As they eventually got up to continue the journey, I wondered about the spectacle I just witnessed. Pinkie's boundless optimism was infectious enough to defeat another encounter with the forces of darkness. It was truly amazing to me how simply thinking on the bright side of things was enough for us to surmount another challenge. I smiled beside myself. I guess I really needed to loosen up.
+As they eventually got up to continue the journey, I thought about how Pinkie's boundless opitmision was enough to break us out of our paralyzing fear. It was truly amazing to me how simply thinking on the bright side of things was enough for her to shatter the spell. Maybe things were looking up.
 -------------------------------------------------------------------------------
 
-Before the giggling could cease, we left the glade to find a river in our path. The river was wild and white with its sloshing. It looked impossible to swim across.
+Before the giggling could cease, we left the glade to find a river in our path. The river was a full fledged rapids, despite the lack of an obvious grade. It looked impossible to swim across.
 
 "How are we going to cross this?" Pinkie asked. A strangely sensible question coming from her.
 /* Twilight probably has an answer here, and again, Swearing.
-I looked up and down the river. "Who the hell makes a road going this far in the forest, yet forgets to put a bridge down here?"
+I looked up and down the river. "Who the hell makes a road going this far in the forest, yet forgets to put a bridge down here?" <Language! And maybe Earth Pony Strength to drop a tree to bridge the river? Or Pegasi Airlift again?>
 
 "Language." Rarity chided.
 
 "Sorry."
 /* What species is Steven Magnet anyway? As in, is it stated somewhere? Twilight probably knows.
-We could hear sobbing from upstream. With no further leads, we decided to investigate. We found a huge purple serpent in the river, thrashing its tail around the river in sorrow. "What a world, what a world!" He wailed.
+We could hear sobbing from upstream. With no further leads, we decided to investigate. We found a lilac colored sea serpent in the river, thrashing His tail around the river in sorrow. "What a world, what a world!" He wailed.
 
-I sighed. Who thrashes out is sorrow like this? I get wanting to break something from time to time, but this is just ridiculous. We needed to cross the river, and this guy was making it difficult. I suppose it's up to me and my quick wits to sort this out, huh?
+Spark sighed, clearly irritated, and approached the sea serpent, followed by the rest of the group. "Hey, are you okay?"
 
-I approached the serpent, followed by my friends. "Hey, are you okay?"
+"No, I am not okay!" He sobbed, throwing his head back in despair. "This tacky purple cloud whisked by and cut my beloved mustache clean off! And now, I look hideous!" He fell into the water in despair. The resulting deluge instantly soaked the entire group down to the bone.
 
-"No, I am not okay!" He sobbed, throwing his head back in despair. "This tacky purple cloud whisked by and cut my beloved mustache clean off! And now, I look hideous!" He fell into the water in despair, splashing water onto the whole lot of us, much to our dismay.
-
-No, this is not the most stupid thing I've ever had to deal with. I have a headache for completely unrelated reasons.
+I was about as irritated as Spark seemed right now.
 
 "Oh, give me a break." Rainbow groaned.
 
@@ -394,86 +392,97 @@ No, this is not the most stupid thing I've ever had to deal with. I have a heada
 
 Rarity looked downright offended by the remarks. "Of course it is! How can you be so insensitive?" She scolded with her head held high.
 
-Rarity approached the serpent with a critical eye. "Oh, just look at him. Such lovely luminescent scales!"
+Rarity approached the sea serpent with a critical eye. "Oh, just look at him. Such lovely luminescent scales!"
 
 I pushed my ridiculous bangs out of the way to stare at Rarity. What was she doing?
 
 "And your expertly coiffed mane!"
 
-Oh, I get it now! Clever. She's complimenting the serpent on all of his best qualities so he won't be so sad. Not bad, considering all I really know about her is that she's quite the fighter.
+//Oh, I get it now! Clever. She's complimenting the serpent on all of his best qualities so he won't be so sad. Not bad, considering all I really know about her is that she's quite the fighter.
+Oh, I see. She is trying to convince him that he still has a lot of positive features. I think.
 
 "And your fabulous manicure... all ruined without your beautiful mustache!"
 
-... Damn it, Rarity. And you were doing so well. Just as expected, the serpent's wailing renewed, and the water was wild once more with his incessant thrashing.
+... Or not. And you were doing so well. Just as expected, the sea serpent's wailing renewed, and the water was wild once more with his incessant thrashing.
 
-Rarity glared in determination. "I cannot let such a crime against fabulosity go uncorrected!" She ran up to the serpent and ripped off one of his scales, unsurprisingly causing him to yelp in pain.
+Rarity glared in determination. "I cannot let such a crime against fabulosity go uncorrected!" She ran up to the serpent and bit off one of his scales, unsurprisingly causing him to yelp in surprise and pain.
 
-His questioning of Rarity's actions was lost to us that day, though I'm sure we were all asking the same question. Why she took that scale was evident soon enough, when she slashed the bladed object at herself, cutting her tail off! I had to say, I was impressed she would do such a thing, considering how much she cared about her hair with the manticore. Because of that, I was stunned to see Rarity so readily tear apart her tail.
+//His questioning of Rarity's actions was lost to us that day, though I'm sure we were all asking the same question. Why she took that scale was evident soon enough, when she slashed the bladed object at herself, cutting her tail off! I had to say, I was impressed she would do such a thing, considering how much she cared about her hair with the manticore. Because of that, I was stunned to see Rarity so readily tear apart her tail.
 
-Rarity didn't blink at this, merely staying focused on the task at hand by levitating her removed tail up to the serpent's face. I don't know what kind of magic she used, but she firmly attached her fallen tail onto the serpent's face like it was the second half of his mustache. It was an ingenious plan, but it had one fatal flaw. Her tail was purple, his mustache was orange. Imagine my surprise when instead of being upset about his mis-matched facial hair, he was thrilled to have a full mustache.
+His response was interrupted as Rarity sliced off her own tail. Surprising, given how she had reacted while fighting the Manticore.
 
-"You look smashing." Rarity complimented with a straight face. I don't know how, but she's probably a better liar than I am.
+Rarity didn't pause, simply levitating her autotomized tail up to the serpent's face. I was somewhat curious as to what exact spell she used, as it perfectly replaced the missing half. You know, if you ignore that even I could tell it was the wrong shape and color. Imagine my surprise when instead of being upset about his mis-matched facial hair, he was thrilled to have a full mustache. <I will never understand fasion.>
 
-"Uh, Rarity? Are you really okay with this?" I asked her, motioning to her tail.
+"You look smashing." Rarity complimented with a straight face. I don't know if she was lying or not, and would have been afraid to ask.
+
+"Uh, Rarity? Are you really okay with this?" Spark asked her, motioning to her tail.
 
 Rarity gave it a glance, and her face had a flash of distaste on it. "Oh. Uh, it's fine. Short tails are in this season. Besides, it will grow back."
 
-She was a transparent liar, after all. She was really attached to her tail, yet she readily gave it away to someone else just to make them fell better. That was very sweet of her, and her generosity really spoke to me.
+She was a transparent liar it seems. She was really attached to her tail, yet she readily gave it away to someone else just to make them fell better.
 
 Then Rainbow Dash whispered in my ear. "The mustache would grow back too, you know."
 
-Ah. Great, this whole scene was a waste of time. All that sweet talking, because some serpent couldn't just accept that he had to change his style for a little while. Great, now my head hurts again.
+//Ah. Great, this whole scene was a waste of time. All that sweet talking, because some serpent couldn't just accept that he had to change his style for a little while. Great, now my head hurts again.
+True enough. Though her generosity resolved the situation without any real harm being done.
 
-Frustrated, I started wading across the river now that it was calm. The serpent lifted me from the water, arranging his body as stepping stones across the river.
+Spark started wading across the river now that it was calm. The sea serpent lifted me from the water, arranging his body as stepping stones across the river.
 
 "Allow me." He said, granting us access across the water.
 
-On second thought, this scene made things a bit more convenient. I could live with that.
+And, it even got us goodwill, and an easy way across the now calm river.
 -------------------------------------------------------------------------------
 
-We followed the road for a little longer, and cleared the treeline. Ahead, I saw the crumbling ruins of a castle, which I presumed to be the resting place for the Elements. It lay across a chasm, which I paid little attention to. Excitement filled my mind, and I sped up to a jogging pace. "That's it! We've found the castle, girls! Victory is nigh!" My optimism spread to the others, and they picked up the pace as well. That is, until we hit our next roadblock.
+The group followed the road for a little longer, and cleared the treeline. Ahead, I saw the crumbling ruins of, presumably, The Castle of the Royal Pony Sisters. Hopefully with the Elements contained within. We all sped up to a decent canter. "That's it! We've found the castle, girls! Victory is nigh!" Spark's optimism spread to the others, and they picked up the pace as well.
 
-The bridge was out. Again. What is it with bridges (or the lack thereof) and pissing me off? I hate this world already.
+That is, until we we reached a chasm. And the bridge was out.
 
 Pinkie sighed. "Now what?"
 /* pegasus problem solving?
-Rainbow fluttered her wings. "Duh, I'll just fix the bridge! Just gimme ten seconds." She jumped down the chasm, presumably to pick up our end of the fallen rope bridge.
+Rainbow fluttered her wings. "Duh, I'll just fix the bridge! Just gimme ten seconds." She leapt down the chasm, presumably to pick up our end of the fallen rope bridge.
 
 "Oh yeah." Pinkie giggled to herself. With sudden and tone-killing intensity, Pinkie turned to me. "Say, you never told us where you were really from."
 
-Seriously? You bring this up now? Just for that, I'm avoiding your question like it has ants on it. "I don't like talking about it. Can we talk about something else?"
+//Seriously? You bring this up now? Just for that, I'm avoiding your question like it has ants on it. "I don't like talking about it. Can we talk about something else?"
+
+Spark promptly dodged the question. "I don't like talking about it. Can we talk about something else?"
 
 "Okay. When's your birthday?"
 /* Probably another hint.
-Damn it. What is it with Pinkie and asking the hardball questions? With a non-sequitur, no less. "May."
-
-Pinkie stared at me with that blank smile for a little while. "What day?"
+//Damn it. What is it with Pinkie and asking the hardball questions? With a non-sequitur, no less. "May."
+"May."
+After a blank smile from Pinkie, she continued. "What Day?"
 
 "I think it's a Tuesday, this year."
 
 Pinkie's eyes narrowed suspiciously. "Is there a reason you're avoiding my questions?" Pinkie gasped dramatically. "Oh no, do you not like birthdays?"
 
-Okay, this is getting out of hand fast. Besides, it's been way longer than ten seconds, what's taking Dash so long? I looked across the chasm to see Rainbow talking to some strangely dressed pegasi. Their outfits were admittedly badass, with dark colors and spooky yellow goggles. Who were they, though? I didn't see them before. I leaned closer to make out their conversation, hoping to get some information.
+Spark decided to try and avoid the quesitons by checking on Rainbow, who had been gone for a bit longer than the ten seconds it should have taken. And she was talking to a group of pegasi with flightsuits. She leaned forward to try and hear better.
 
-"...It's them or us." Said the pegasus, who I assumed to be the leader.
+"...It's them or us." Said the lead pegasus.
 
-My eyes widened. Oh no, we could have Rainbow betray us now! "Rainbow! Please, don't listen to them!" I yelled.
+//My eyes widened. Oh no, we could have Rainbow betray us now! "Rainbow! Please, don't listen to them!" I yelled.
 
-The unnamed pegasus glared at me, her eyes flashing with power. Mist came from out of nowhere, and clouded our view, hiding the events across the way from observation.
+My eyes widened. "Rainbow! Please, don't listen to them!" Spark yelled.
+
+The lead pegasus glared at me, her eyes flashing with magic. Mist came from out of nowhere, and clouded our view, hiding the events across the way from observation. <Oh no!>
 /* And here is the explosion. She is possessed by someone who Despises Magic. 
-I stomped with fury. "God DAMN you and your goddamn magic!"
+I stomped with fury. "God DAMN you and your goddamn magic!" <What?>
 
-"Twilight, calm down!" Rarity tried consoling.
+"Twilight, calm down!" Rarity tried consoling Spark.
 
-"No, I'm pissed now! Every time! Magic screws me over every fucking time!" I yelled into the mist, as if my voice had the power to clear the weather. My ranting made everyone look at my head. I wondered what they were looking at, but I was too angry to find out. Once again, magic was dead-set on pissing me off. I hate this world already.
+"No, I'm pissed now! Every time! Magic screws me over every fucking time!" She yelled into the mist, with absolute fury. Her ranting had everypony looking at me, and presumably my horn. <How can you hate magic? Magic is everything!>
 
-I glared into the mist, while the others were worriedly watching me, as if I was going to do something I might regret. We sat still for a little while, when Rainbow burst through the mist, landing in front of the bridge with a triumphant pose. In my delight, I whooped with joy and rushed over to hug her. It was one of the manly hugs that only last a moment with maybe a pat on the back. I'm not a girl (and screw you if bring up any technicalities).
+/I glared into the mist, while the others were worriedly watching me, as if I was going to do something I might regret. We sat still for a little while, when Rainbow burst through the mist, landing in front of the bridge with a triumphant pose. In my delight, I whooped with joy and rushed over to hug her. It was one of the manly hugs that only last a moment with maybe a pat on the back. I'm not a girl (and screw you if bring up any technicalities).
+Spark glared into the mist, teeth grit, with everypony else worriedly watching me. A moment later, Rainbow burst back through the mist, fully repaired bridge quickly revealed behind her. Spark promptly whooped with joy and rushed over to give Rainbow a quick hug. <Hey, tell me what you have against magic!>
 
-"Oh man, you have no idea how glad I am that you're sticking with us!" I admitted with some relief.
+"Oh man, you have no idea how glad I am that you're sticking with us!" Spark said with apperant relief.
 
-Rainbow smirked. "I'd never leave my friends hanging."
+Rainbow smirked. "I'd never leave my friends hanging." <No, go back to the
 
 I smiled back at her as she flew across the chasm, followed by the others crossing the bridge. She was being offered a chance to join a group far more powerful than us, and prestige with them, yet she chose to stick with us. Such a loyal friend. How could I not be happy with someone like her with me?
+
+/* I do NOT like this section. I need to think of how exactly Twilight should react to Magic Hate. Also find the right word for Fear of magic. Thaumiphobe Rhabdophobia or Rhabdomisia Or somehing else.
 ------------------------------------------------------------------------------
 
 The inside of the castle could hardly be considered "inside". There wasn't a roof to speak of, yet there was no debris on the floor to indicate there was a roof in the first place. Columns flanked either side of the room, but they were cracked and had vines growing on them. Nature was slowly creeping in here, as vegetation was all over the place in random segments of the wall and any stone surface. But what really caught the eye was the center. In the center of the room was a statuesque pedestal, on top of which sat five grey orbs surrounding a larger orb. I recognized them from the books. The smaller orbs were the Elements of Harmony.
