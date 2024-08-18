@@ -1,0 +1,35 @@
+Assassin:
+- Class: Melee Damage Dealer / Stealth Assassin
+- Base Stats: Middling health, no armor
+- Assassin is cooldown/charge based, no mana
+
+Abilities:
+1. Stealth:
+   - 1.5-7.5 second cloak, 9 sec cooldown
+   - While cloaked: +10% damage, +10% move speed, Phased
+   - Breaks targeting locks and allows escape from surrounds
+
+2. Assassinate:
+   - Teleport to target enemy, damage for 20-100
+   - Can apply poison (if learned)
+   - 20 second cooldown
+
+3. Poison (Passive):
+   - Attack or assassinate target takes 60-300 damage over 15 seconds
+   - Target receives 20% less healing for duration
+   - Does not stack
+
+4. Agility (Passive):
+   - +10-30% move speed
+   - +20-100% attack speed
+
+5. Shadow Clone (Ultimate):
+   - Create copy of hero
+   - Hero breaks all slows, phases, double move speed for 1 second
+   - Can micro copy hero separately
+   - Copy has all skills of original, minus this one
+   - Lasts 10-30 seconds
+
+Basic Attack:
+- High(ish) basic attack
+- Long (3.5 second) cooldown

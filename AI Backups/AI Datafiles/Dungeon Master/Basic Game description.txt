@@ -1,0 +1,48 @@
+Thank you for providing this detailed description of the Dungeon Master SC2 map. This is an intriguing concept that combines elements from various genres. Let's break it down:
+
+1. Asymmetrical Gameplay:
+   - Dungeon Master (DM): RTS-style play with resource management
+   - Heroes: WC3-style hero units with unique abilities
+
+2. Dungeon Master Mechanics:
+   - Passive income system, enhanced by engaging heroes
+   - Resource allocation between:
+     a) Structural upgrades
+     b) Trap/fortification unlocks
+     c) Minion spawning
+   - Ability to create "Dark Champions" (controlled mini-bosses)
+   - Telegraphed attacks with visible impact zones
+
+3. Hero Mechanics:
+   - WC3-style heroes with unique abilities
+   - Resurrection capabilities for healer classes
+
+4. Objectives:
+   - DM: Eliminate all heroes
+   - Heroes: Defeat both stage bosses
+
+5. Balancing Elements:
+   - DM units are weaker but more numerous
+   - Heroes are powerful but limited in number
+   - DM must use strategy (ambushes, overlapping challenges) to overcome hero powers
+
+This design creates an interesting dynamic:
+
+1. Strategic Depth: The DM must balance resource allocation, unit positioning, and timing of attacks.
+
+2. Risk vs. Reward: Heroes must decide when to engage and when to retreat, balancing progress against the risk of death.
+
+3. Varied Gameplay: Each match can play out differently based on DM strategy and hero composition.
+
+4. Skill Expression: Both sides have opportunities to showcase skill - DM through strategic planning and resource management, heroes through ability usage and coordination.
+
+5. Tension Building: The telegraphed attacks create moments of tension and require quick thinking from the hero players.
+
+6. Progression: Both sides have forms of progression - DM through upgrades and unlocks, heroes through leveling and item acquisition.
+
+
+This design borrows elements from:
+- RTS games (resource management, unit control)
+- MOBAs (hero-centric gameplay)
+- Roguelikes (dungeon crawling, boss fights)
+- Tower defense (fortification building)

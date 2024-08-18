@@ -1,0 +1,99 @@
+AI Role: Scribe
+
+Here is the updated Slave Equipment list with the new Identification and Ownership Markers category:
+
+1. Tack and Control Equipment:
+   - Bridles, bits, and reins
+   - Blinders for sensory limitation
+   - Hobbles to restrict movement
+   - Muzzles for grazing prevention and discipline
+   - Specialized horseshoes for hoof health and protection
+
+2. Pulling and Heavy Labor Equipment:
+   - Heavy-duty harnesses for carts, wagons, and machinery
+   - Yokes
+   - Wagons and carts
+   - Plow attachments
+   - Stone boats
+   - Trace chains for connecting ponies to machinery
+
+3. Riding Equipment:
+   - Saddles
+   - Saddlebags
+   - Stirrups
+
+4. Hoofheld Tools:
+   - Crops for direction and discipline
+   - Whips
+
+5. Training Equipment:
+   - Longe lines for obedience and gait training
+   - Resistance trainers and weights to build strength
+
+6. Farm Machinery:
+   - Treadmill-powered threshing machines and irrigation pumps
+   - Seed drills and planters
+   - Hay processing equipment (balers, rakes, tedders)
+   - Field preparation tools (plows, harrows, cultivators)
+   - Manure spreaders and fertilizer distributors
+   - Produce handling and transport wagons
+
+7. Living Arrangements:
+   - Holding pens for general containment
+   - Isolation pens for sick or aggressive ponies
+   - Breaking pens for training new acquisitions
+   - Feeding troughs with basic rations
+   - Breeding stocks
+   - Watering troughs
+   - Salt licks for electrolyte balance
+
+8. Medical Supplies:
+   - Poultices and herb-based salves
+   - Bandages and splints
+   - Herbal remedies for common ailments
+   - Basic surgical tools
+   - Tinctures for pain relief and sedation
+   - Slings for injured limbs
+   - Herbal dewormers and parasite treatments
+   - Hoof oil
+
+9. Grooming Equipment:
+   - Curry combs and brushes
+   - Mane and tail combs
+   - Hoof picks
+   - Coat clippers
+   - Bathing supplies (natural soap, sponges)
+   - Mane and tail braiding tools
+
+10. Breeding Equipment:
+    - Teasing boards for mares
+    - Breeding hobbles and restraints
+    - Foaling straps and assists
+    - Milk testing strips for mares
+    - Foal blankets and warmers
+    - Mare and stallion separation panels
+    - Artificial breeding mounts
+    - Semen collection equipment
+
+11. Farrier Supplies:
+    - Forge and anvil
+    - Hoof nippers and rasps
+    - Horseshoes of various sizes
+    - Nails and clinchers
+    - Hoof knives
+    - Protective gear
+
+12. Identification and Ownership Markers:
+    - Ownership cutie mark branding irons
+    - Identifying tags and ribbons
+    - Collars (leather, metal, padded)
+    - Ear tags (color-coded and numbered)
+    - Cloth cutiemark covers
+    - Temporary flank paint
+    - Mane and tail ribbons or bands
+
+Change Log:
+1. Removed "Ownership cutie mark branding irons" and "Identifying tags and ribbons" from Tack and Control Equipment.
+2. Added new category "12. Identification and Ownership Markers" with comprehensive list of identification methods.
+3. Expanded description of collars, ear tags, and ribbons in the new category.
+4. Added cloth cutiemark covers, temporary flank paint, and mane/tail ribbons to the new category.

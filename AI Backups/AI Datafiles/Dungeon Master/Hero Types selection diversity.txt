@@ -1,0 +1,40 @@
+Hero Types, Selection, and Diversity:
+
+1. Hero Selection:
+   - A wide variety of heroes available, offering diversity comparable to MOBA games
+   - Heroes are selected at the start of the game
+
+2. Primary Hero Classifications:
+   - Tank: Durable heroes that can absorb damage and protect allies
+   - DPS (Damage Per Second): Heroes focused on dealing high damage
+   - Healer: Heroes specializing in restoring health to allies
+   - Support: Heroes that provide utility and enhance team performance
+
+3. Secondary Hero Classifications:
+   - Stealth: Heroes with abilities to remain undetected
+   - Initiator: Heroes skilled at starting team fights
+   - Control: Heroes that excel at crowd control and area denial
+
+4. Additional Classifications:
+   - Resurrector: Heroes with the ability to bring fallen allies back to life (often, but not always, Healers)
+   - Scout: Heroes adept at gathering information and map control
+   - Mobile: Heroes with abilities to teleport or cliff jump, potentially sequence-breaking the map
+
+5. Ability Structure:
+   - Each hero has 5 total abilities: 4 normal skills and 1 ultimate skill
+   - All heroes gain a powerful ultimate ability at level 6
+   - Each ability has 5 tiers
+
+6. Team Composition:
+   - Selecting a balanced mix of hero types is crucial for strategic gameplay
+   - Heroes are limited in number compared to the Dungeon Master's units, emphasizing the importance of each hero's role and abilities
+
+7. Progression and Rewards:
+   - Gain 1 skill point per level
+   - Kills provide global XP and money share to all heroes
+   - Mini-bosses give large XP rewards, often enough for a level up
+
+8. Strategic Considerations:
+   - Constant pressure to push forward
+   - Balancing time spent on mini-bosses vs. regular progression
+   - Long-term skill allocation planning across all stages

@@ -1,0 +1,62 @@
+Stats and Resource Systems:
+
+1. Raw Stats:
+   - Health (HP): 100-300 base
+   - Health Regeneration: 0.25-0.5 base
+   - Mana (MP): 0-150 base
+   - Mana Regeneration: 0-0.5 base
+   - Movement Speed: 1.75 base
+   - Armor (flat damage reduction): 0-2 base
+   - Attack Range: 1-5 base (≤1 for melee, >1 for ranged)
+   - Attack Speed: 0.3-1 base
+   - Base Damage: 10-35 base
+
+2. Extra Stats (Modifiers):
+   - Spellpower: Percentage bonus to spell damage
+   - Heal Power: Percentage bonus to healing
+   - Attack Power: Percentage bonus to physical damage
+   - Resistance: Percentage damage reduction
+   - Cooldown Reduction (CDR)
+   - Tenacity: Slow resistance
+   - Lifesteal
+   - Spell Vamp
+
+3. Resource Systems:
+   - Varied resource systems depending on hero type
+   - Can include:
+     - Cooldowns
+     - Charges
+     - Mana
+   - Some heroes may use combinations of these systems
+
+Abilities:
+
+1. Ability Structure:
+   - Each hero has 5 total abilities
+     - 4 normal skills
+     - 1 ultimate skill
+   - All heroes gain their powerful ultimate ability at level 6
+
+2. Ability Tiers and Scaling:
+   - Each ability has 5 tiers
+   - Normal skills can be upgraded at levels 1, 3, 5, 7, 9
+   - Ultimate skill can be upgraded at levels 6, 8, 10, 12, 14
+   - Ability scaling varies, potentially affecting damage, cooldown, resource cost, or additional effects
+
+3. Skill Point System:
+   - Heroes start at level 1 with 1 skill point
+   - Gain 1 skill point per level
+   - Max level is 25, but typically 20 in most games
+   - Level progression by stage:
+     - Stage 1: Up to level 9
+     - Stage 2: Up to level 15
+     - Stage 3: Up to level 20
+   - Cannot max all abilities (25 total tiers, but max level typically 20)
+   - Players must plan long-term skill allocation across all stages
+
+4. Ability Diversity:
+   - Abilities vary greatly between heroes, contributing to diverse playstyles
+   - Can include damage dealing, crowd control, buffs, debuffs, and utility skills
+
+5. Vision:
+   - Some abilities may affect or interact with vision mechanics

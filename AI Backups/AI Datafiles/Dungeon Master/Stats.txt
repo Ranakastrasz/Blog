@@ -1,0 +1,18 @@
+Intrinsic Stats:
+1. HP (Health Points) 100-300 base. 
+2. HP Regeneration 0.25-0.5 base
+3. MP (Mana Points) 0-150 base
+4. MP Regeneration 0-.5 base
+5. Movement Speed 1.75
+6. Armor (flat damage reduction) 0-2 base.
+7. Range 1-5 base.
+8. Attackspeed 0.3-1 base
+9. Base Damage. 10-35 base.
+
+Modifiers:
+1. Spellpower (Spell damage percent bonus)
+2. Heal Power (Healing percent bonus)
+3. Attack Power (Physical damage percent or flat bonus for basic attack)
+4. Resistance (Percentage damage reduction)
+5. CDR (Cooldown Reduction)
+6. Slow Resistance.

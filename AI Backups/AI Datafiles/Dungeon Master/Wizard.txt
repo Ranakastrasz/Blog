@@ -1,0 +1,77 @@
+Wizard
+Class: Ranged Spellcaster
+Subclass: Area Control / Crowd Control Specialist
+
+Core Attributes:
+- Large mana pool with potentially slow regeneration
+- Mid-range ground attack that can hit cloaked/burrowed units and those in fog of war
+- Low health and no armor, making positioning crucial
+
+Ability Classification:
+
+1. Chain Lightning: Multi-target damage ability
+2. Firewall: Area denial / Damage over time ability
+3. Ice Prison: Crowd control / Debuff ability
+4. Tremor: Building damage / Area control ability
+5. Tornado (Ultimate): Area of Effect (AoE) crowd control and damage ability
+6. Ice Block: Defensive / Survivability ability (unlocked at Ice Prison level 3)
+
+Ability Breakdown:
+
+1. Chain Lightning:
+   - Multi-target damage that chains between enemies
+   - No cooldown, but increasing mana cost with repeated use
+   - At max level, basic attacks trigger a free cast
+
+2. Firewall:
+   - Creates a line of flame pillars for area denial
+   - Deals damage over time to enemies in the affected area
+   - At max level, basic attacks apply a damage-over-time effect
+
+3. Ice Prison:
+   - Crowd control ability that can freeze or slow enemies
+   - Passive mana regeneration increase
+   - At level 3, unlocks Ice Block for survivability
+   - At max level, basic attacks apply a slow effect
+
+4. Tremor:
+   - Area of effect ability that damages buildings and slows enemies
+   - Long duration effect, useful for sieging
+
+5. Tornado (Ultimate):
+   - Powerful crowd control and damage ability
+   - Pushes and disables enemies in its path
+   - Increases mana regeneration with each level
+   - At max level, provides a significant max mana boost
+
+6. Ice Block:
+   - Defensive ability unlocked at Ice Prison level 3
+   - Encases the Wizard in ice, becoming invulnerable but immobile
+   - Acts as a crucial "panic button" for survivability
+   - Allows time for cooldowns and team assistance
+
+Playstyle and Role:
+The Wizard excels at area control, sustained damage output, and crowd control. They require careful positioning due to their fragility but have Ice Block as a last resort. Efficient mana management is crucial for optimal performance.
+
+Key Strengths:
+1. Strong area control and denial capabilities
+2. Effective crowd control options
+3. Sustained damage output with proper mana management
+4. Ability to hit invisible or burrowed units
+5. Versatility in spell usage for different situations
+6. Ice Block provides a crucial survival mechanism
+
+Weaknesses:
+1. Low health and no armor make the Wizard very vulnerable (mitigated somewhat by Ice Block)
+2. Heavily reliant on mana management
+3. Some abilities (like Firewall) have cast times, requiring prediction
+4. Can be overwhelmed if caught out of position
+
+In a dungeon-style game, this Wizard would excel at:
+1. Controlling key areas of the battlefield
+2. Providing consistent damage and crowd control in team fights
+3. Clearing waves of weaker enemies efficiently
+4. Sieging fortifications with Tremor
+5. Surviving focus fire or ambushes with Ice Block
+
+The Wizard would likely be most effective when paired with tanky heroes who can protect them, allowing for maximum spell usage from a safe distance. This hero might struggle in close-quarters combat but has Ice Block as a last resort. The Wizard shines in situations where they can control the flow of battle from the backline, using a combination of area denial, crowd control, and sustained damage to support the team and hinder enemy movements.
